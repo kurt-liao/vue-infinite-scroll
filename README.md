@@ -13,11 +13,11 @@ The directive of infinite-scroll for vue.
 ## Installation
 
 ```
-npm install vue-infinite-scroll
+npm install @kurtliao/vue-infinite-scroll
 
 or
 
-yarn add vue-infinite-scroll
+yarn add @kurtliao/vue-infinite-scroll
 ```
 
 ## Usage
