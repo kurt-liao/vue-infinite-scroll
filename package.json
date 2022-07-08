@@ -40,5 +40,11 @@
     "vite-plugin-dts": "^1.2.1",
     "vitest": "^0.17.1",
     "vue-tsc": "^0.34.7"
-  }
+  },
+  "keywords": [
+    "vue",
+    "infinite-scroll",
+    "directive",
+    "vite"
+  ]
 }

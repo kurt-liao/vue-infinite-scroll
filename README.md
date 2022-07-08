@@ -2,6 +2,14 @@
 
 The directive of infinite-scroll for vue.
 
+<div align="center">
+<img src="https://img.shields.io/npm/v/@kurtliao/vue-infinite-scroll?style=for-the-badge" alt="0.0.1"/>
+<img src="https://img.shields.io/npm/l/@kurtliao/vue-infinite-scroll?style=for-the-badge" alt="MIT" />
+
+<img src="https://img.shields.io/bundlephobia/min/@kurtliao/vue-infinite-scroll?style=for-the-badge" />
+
+</div>
+
 ## Installation
 
 ```
