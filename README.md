@@ -22,7 +22,7 @@ import InfiniteScroll from "vue-infinite-scroll";
 
 const app = createApp(App);
 
-app.directive("SInfiniteScroll", InfiniteScroll);
+app.directive("InfiniteScroll", InfiniteScroll);
 
 ...
 ```
