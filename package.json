@@ -1,6 +1,6 @@
 {
   "name": "@kurtliao/vue-infinite-scroll",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "./dist/infinite-scroll.umd.js",
   "module": "./dist/infinite-scroll.es.js",
   "exports": {
@@ -19,6 +19,8 @@
     "type": "git",
     "url": "https://github.com/kurt-liao/vue-infinite-scroll.git"
   },
+  "description": "A minimal infinite scroll directive for vue/vue3",
+  "homepage": "https://github.com/kurt-liao/vue-infinite-scroll#readme",
   "author": "kurt-liao",
   "scripts": {
     "build": "vue-tsc --noEmit && vite build",

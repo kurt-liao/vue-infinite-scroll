@@ -1,7 +1,5 @@
 <img src="./assets/logo.svg" />
 
-The directive of infinite-scroll for vue.
-
 <div align="center">
   <img src="https://img.shields.io/npm/v/@kurtliao/vue-infinite-scroll?style=for-the-badge"/>
   <img src="https://img.shields.io/npm/l/@kurtliao/vue-infinite-scroll?style=for-the-badge"/>
