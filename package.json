@@ -1,6 +1,6 @@
 {
   "name": "@kurtliao/vue-infinite-scroll",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "./dist/infinite-scroll.umd.js",
   "module": "./dist/infinite-scroll.es.js",
   "exports": {
