@@ -1,5 +1,5 @@
 {
-  "name": "vue-infinite-scroll",
+  "name": "@kurtliao/vue-infinite-scroll",
   "version": "0.0.1",
   "main": "./dist/infinite-scroll.umd.js",
   "module": "./dist/infinite-scroll.es.js",

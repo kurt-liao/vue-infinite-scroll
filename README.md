@@ -18,7 +18,7 @@ yarn add vue-infinite-scroll
 
 import { createApp } from "vue";
 import App from "./App.vue";
-import InfiniteScroll from "vue-infinite-scroll";
+import InfiniteScroll from "@kurtliao/vue-infinite-scroll";
 
 const app = createApp(App);
 
