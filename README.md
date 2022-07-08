@@ -1,5 +1,3 @@
-<h1 hidden>vue-infinite-scroll</h1>
-
 <img src="./assets/logo.svg" />
 
 The directive of infinite-scroll for vue.
