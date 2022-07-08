@@ -1,7 +1,14 @@
 const { defineConfig } = require('vite')
 const path = require('path')
+const dts = require('vite-plugin-dts')
 
 module.exports = defineConfig({
+  plugins: [
+    dts({
+      insertTypesEntry: true,
+      include: 'src/index.ts'
+    })
+  ],
   build: {
     lib: {
       entry: path.resolve(__dirname, 'src/index.ts'),
