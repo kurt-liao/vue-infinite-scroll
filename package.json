@@ -1,6 +1,6 @@
 {
   "name": "@kurtliao/vue-infinite-scroll",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./dist/infinite-scroll.umd.js",
   "module": "./dist/infinite-scroll.es.js",
   "exports": {
@@ -15,8 +15,12 @@
   ],
   "types": "./dist/index.d.ts",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurt-liao/vue-infinite-scroll.git"
+  },
+  "author": "kurt-liao",
   "scripts": {
-    "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "test": "vitest"
   },
