@@ -12,6 +12,12 @@
   <a href="https://github.com/kurt-liao/vue-infinite-scroll/pulls"> Feature </a>
 </p>
 
+## Demo
+
+[Try it online](https://stackblitz.com/edit/vue-infinite-scroll-demo)
+
+<img src="./assets/demo.gif" />
+
 ## Installation
 
 ```
@@ -24,12 +30,6 @@ yarn add @kurtliao/vue-infinite-scroll
 
 ## Usage
 
-
-### Demo
-
-[Try it online](https://stackblitz.com/edit/vue-infinite-scroll-demo)
-
-<img src="./assets/demo.gif" />
 
 ### Import globally
 ```js
