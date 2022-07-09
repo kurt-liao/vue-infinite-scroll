@@ -6,6 +6,12 @@
   <img src="https://img.shields.io/bundlephobia/min/@kurtliao/vue-infinite-scroll?style=for-the-badge" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/kurt-liao/vue-infinite-scroll/issues"> Issue </a>
+  .
+  <a href="https://github.com/kurt-liao/vue-infinite-scroll/pulls"> Feature </a>
+</p>
+
 ## Installation
 
 ```
@@ -112,3 +118,6 @@ const loadMore = () => {
 
 </script>
 ```
+---
+
+<h3>Contributions welcome! Also ⭐ </h3>
