@@ -62,7 +62,7 @@ const loadMore = () => {
 <style>
 .list {
   height: 300px;
-  overflow: auto; // make sure the element has overflow style
+  overflow: auto;
 }
 
 .row {
