@@ -1,4 +1,9 @@
-<img src="./assets/logo.svg" />
+<div align="center">
+
+  <img src="./assets/logo.svg" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=30&color=0EEAF7&background=FFF8EF00&center=true&vCenter=true&width=600&lines=Built+with+typescript+%E2%9D%A4%EF%B8%8F+vite+library+mode" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/npm/v/@kurtliao/vue-infinite-scroll?style=for-the-badge"/>
