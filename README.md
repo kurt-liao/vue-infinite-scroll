@@ -18,6 +18,13 @@ yarn add @kurtliao/vue-infinite-scroll
 
 ## Usage
 
+
+### Demo
+
+[Try it online](https://stackblitz.com/edit/vue-infinite-scroll-demo)
+
+<img src="./assets/demo.gif" />
+
 ### Import globally
 ```js
 
