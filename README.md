@@ -46,7 +46,11 @@ const app = createApp(App);
 app.directive("InfiniteScroll", InfiniteScroll);
 ```
 
-### Simple
+### Basic
+
+| Name | Type | Required |
+| --- | --- | --- |
+| v-infinite-scroll | function | true |
 
 ```vue
 
@@ -80,7 +84,10 @@ const loadMore = () => {
 
 ### Optional
 
-`infinite-scroll-disabled`
+| Name | Type | Required | Default |
+| --- | --- | --- | --- |
+| infinite-scroll-disabled | boolean | false | false |
+
 
 ```vue
 <template>
@@ -104,7 +111,10 @@ const loadMore = () => {
 </script>
 ```
 
-`infinite-scroll-delay`
+| Name | Type | Required | Default |
+| --- | --- | --- | --- |
+| infinite-scroll-delay | number | false | 300(ms) |
+
 
 ```vue
 <template>
