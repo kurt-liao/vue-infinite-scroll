@@ -7,8 +7,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/npm/v/@kurtliao/vue-infinite-scroll?style=for-the-badge"/>
+  <img src="https://img.shields.io/npm/dt/@kurtliao/vue-infinite-scroll?color=%23BAD9B5&style=for-the-badge"/>
   <img src="https://img.shields.io/npm/l/@kurtliao/vue-infinite-scroll?style=for-the-badge"/>
-  <img src="https://img.shields.io/bundlephobia/min/@kurtliao/vue-infinite-scroll?style=for-the-badge" />
+  <img src="https://img.shields.io/bundlephobia/min/@kurtliao/vue-infinite-scroll?style=for-the-badge"/>
 </div>
 
 <p align="center">
